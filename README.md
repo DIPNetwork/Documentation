@@ -5,4 +5,5 @@ DIPNET is a blockchain project based on Ethereum, we add contract paradigm, and 
 
 To get more information:
 
+[English](/README_en.md)  
 [中文简体](/README_cn.md)
